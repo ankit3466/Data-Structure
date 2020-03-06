@@ -60,7 +60,7 @@ class Binary_tree:
 #   2  3
 #  / \
 # 4  5
-#
+
 
 tree = Binary_tree(1)
 tree.root.left = Node(2)
